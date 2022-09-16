@@ -1,4 +1,28 @@
-### Hi there 👋
+# Hello everyone!!
+
+### I'm new here
+My friends @pokeinalover and @Contratop are helping me
+
+
+
+## My favourite IDE
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+## My favourite game is 
+[<img src="https://cdn.akamai.steamstatic.com/steam/apps/537110/header.jpg?t=1606327789" alt="drawing" width="150"/>](https://store.steampowered.com/app/537110/Angels_of_Death/)
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
 **Okamikira/okamikira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
