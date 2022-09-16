@@ -1,7 +1,7 @@
 # Hello everyone!!
 
 ### I'm new here
-My friends @pokeinalover and @Contratop are helping me
+My friends [@pokeinalover][pokeinaloverprofile] and [@Contratop][contratoprofile] are helping me
 
 
 
@@ -38,3 +38,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[pokeinaloverprofile]: https://github.com/pokeinalover
+[contratoprofile]: https://github.com/contratop
