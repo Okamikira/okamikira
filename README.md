@@ -14,7 +14,7 @@ My friends [@pokeinalover][pokeinaloverprofile] and [@Contratop][contratoprofile
 
 
 ## My first prototype code
--[🌲okamikira/the-woods][thewoods]: My first game 
+[<img src="https://github.com/okamikira/okamikira/blob/main/The.png?raw=true" alt="drawing" width="150"/>](https://github.com/okamikira/the-woods)
 
 
 
@@ -38,4 +38,3 @@ Here are some ideas to get you started:
 
 [pokeinaloverprofile]: https://github.com/pokeinalover
 [contratoprofile]: https://github.com/contratop
-[thewoods]: https://github.com/okamikira/the-woods
